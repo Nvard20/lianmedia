@@ -1,0 +1,1 @@
+$(document).ready(function(){new Typed("#typed",{stringsElement:"#typed-strings",loop:!1,loopCount:1/0,typeSpeed:200,backSpeed:100,backDelay:500,showCursor:!0})});
